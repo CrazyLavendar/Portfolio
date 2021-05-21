@@ -1,0 +1,12 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Vimal Kumar. I am a fitness Enthusiast , Chess player and Software Developer. \n ⭐I have hands-on experience in XR domain , Full Stack Development & Cloud deployment. ⭐\n I am efficient and knowledgable in data structures & Algorithms. I love competetive coding.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  }
+}

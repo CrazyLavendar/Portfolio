@@ -1,0 +1,23 @@
+{
+  "basic_info": {
+    "name": "Vimal Kumar",
+    "titles": [
+      "XR - Engineer",
+      "FUll Stack Developer",
+      "PURSUING MASTER's @ NIT W"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/CrazyLavendar",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jayamvimal/",
+        "class": "fab fa-linkedin-in"
+      }
+    ],
+    "image": "myProfile.jpg"
+  }
+}
